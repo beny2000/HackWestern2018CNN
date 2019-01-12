@@ -11,7 +11,7 @@ import random
 import numpy as np
 from tqdm import tqdm
 
-DATADIR = "C:\\Users\\Bens PC\\PycharmProjects\\hack_test\\git_data\\Apple"  # location of training data
+DATADIR = ""  # location of training data
 CATEGORIES = ["Healthy", "Unhealthy"]  # categories of the data
 IMG_SIZE = 70
 
