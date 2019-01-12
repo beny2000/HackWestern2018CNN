@@ -11,7 +11,7 @@ from random import shuffle
 
 CATEGORIES = ["Healthy", "Unhealthy"]  # converts prediction num to string value
 
-DATADIR = "C:\\Users\\Bens PC\\PycharmProjects\\hack_test\\git_data\\Apple_testting_data"  # location of testing data
+DATADIR = ""  # location of testing data
 
 testing_data = []
 for category in CATEGORIES:
