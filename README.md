@@ -1,4 +1,4 @@
-#HackWesternCNN
+# Hack Western CNN
 
 This repo contians the files and data for a CNN that predicts the health of leaves. Model was created for Hack Western 2018, goal of the model was to determine the health of a crop based on a phtot of its leaves. Diffrent ilnesses can manifests ad spots and discoloration on the leaves of crops and a model can be trained to recognised these carateristics baesed on phots of healthy and unhealthy leaves hk 
 
